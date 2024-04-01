@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @murat725178252
+- 👋 Hi, I’m XCAT
 - 💻 knows only lua html and python
 - 🕐 7/24 making apps or playing games
 ```python
